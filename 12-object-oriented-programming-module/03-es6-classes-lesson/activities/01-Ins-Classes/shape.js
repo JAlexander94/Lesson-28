@@ -12,5 +12,7 @@ class Shape {
 }
 
 const shape = new Shape(25, 25);
+const shape2 = new Shape(50, 50)
 
 shape.printInfo();
+shape2.printInfo()
